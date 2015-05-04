@@ -1,0 +1,14 @@
+{
+  "name": "easyod-pubsub",
+  "version": "1.0.0",
+  "description": "To deploy Pub/Sub service you'll need Kafka. We are using following docker:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^0.2.26"
+  }
+}
